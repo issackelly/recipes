@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Alex\'s Cookbook'
-copyright = u'2012, Alex Gaynor'
+project = u'Issac\'s Cookbook'
+copyright = u'2012, Alex Gaynor, Issac Kelly'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'AlexsRecipes.tex', u'Alex\'s Recipes Documentation',
+  ('index', 'AlexsRecipes.tex', u'Issac\'s Recipes Documentation',
    u'Alex Gaynor', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'alexsrecipes', u'Alex\'s Recipes Documentation',
+    ('index', 'alexsrecipes', u'Issac\'s Recipes Documentation',
      [u'Alex Gaynor'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'AlexsRecipes', u'Alex\'s Recipes Documentation',
+  ('index', 'AlexsRecipes', u'Issac\'s Recipes Documentation',
    u'Alex Gaynor', 'AlexsRecipes', 'One line description of project.',
    'Miscellaneous'),
 ]
